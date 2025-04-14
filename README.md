@@ -17,7 +17,7 @@ Pixtess is a conceptual format designed to represent image data as structured te
 ## Project Structure
 
 ```
-pixtess_converter/
+pixtess_main/
 ├── requirements.txt       # Python dependencies
 ├── pixtess_utils.py       # Core Pixtess logic (parsing, color conversion)
 ├── pixtess_converter.py   # Main script with CLI, file I/O
