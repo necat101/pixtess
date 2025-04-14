@@ -30,7 +30,7 @@ pixtess_converter/
     ```bash
     # Example using git:
     # git clone https://github.com/necat101/pixtess.git
-    # cd pixtess_converter
+    # cd pixtess_main
     ```
     (Or simply download `pixtess_converter.py`, `pixtess_utils.py`, and `requirements.txt` into the same folder).
 
